@@ -15,7 +15,7 @@ setup(
     url='https://github.com/Antonin-Deniau/bnrunner',
     author='DENIAU Antonin',
     author_email='antonin.deniau@protonmail.com',
-    license='GNU General Public License v3 or later (GPLv3+)',
+    license='MIT',
 
     classifiers=[
         'Development Status :: 3 - Alpha',
