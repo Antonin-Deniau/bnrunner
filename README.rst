@@ -58,5 +58,5 @@ License
 This project is licensed under the MIT License - see the `LICENSE`_ file
 for details
 
-.. _scripts_runner: http://github.com/Antonin-deniau/scripts_runner
+.. _scripts_runner: http://github.com/Antonin-deniau/bn_script_runner
 .. _LICENSE: LICENSE
